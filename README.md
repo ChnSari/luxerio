@@ -1,79 +1,103 @@
-
-# LUXERIO – Timeless Elegance for Living Spaces
-LUXERIO is a modern, luxury-focused furniture brand landing page designed to present
+# LUXERIO  
+## Timeless Elegance for Living Spaces
+LUXERIO is a modern, luxury-focused furniture brand landing page crafted to present
 premium collections with a strong emphasis on aesthetics, clarity, and user experience.
-The project is built as a fully static frontend website with clean structure and smooth
-visual flow.
+The project is designed as a fully static frontend website, prioritizing clean structure,
+smooth visual flow, and refined brand storytelling.
+
+---
 
 ## Preview
-> A refined furniture brand website featuring video hero sections, mega menus,
-> product showcases, and material storytelling.
+> High-end furniture brand website featuring a video-based hero section,  
+> mega menu navigation, curated product showcases, and material storytelling.
 
-## Features
-- Luxury-oriented, minimal UI design
-- Fully responsive (desktop, tablet, mobile)
-- Mega menu for product navigation
+---
+
+## Key Features
+### UI / UX
+- Luxury-oriented, minimal, and modern interface
+- Fully responsive design (desktop, tablet, mobile)
+- Clean visual hierarchy and refined typography
+- Smooth transitions and subtle animations
+
+### Navigation
+- Desktop mega menu for product exploration
 - Mobile hamburger menu with expandable submenus
-- Video-based hero section with overlay
+- User-friendly navigation flow across all devices
+
+### Content & Components
+- Autoplay hero video with overlay and call-to-action
 - Infinite horizontal image sliders
-- Product grid & featured collections
-- Material detail storytelling section
+- Product grid with featured collections
+- Material-focused storytelling sections
 - Brand references marquee
-- Theme toggle infrastructure (light / dark)
+- Theme toggle infrastructure (light / dark ready)
+
+### Code Quality
 - Clean and semantic HTML5 structure
+- Modular and readable CSS architecture
+- Vanilla JavaScript for interaction logic
+
+---
 
 ## Tech Stack
-- **HTML5** – Semantic page structure
-- **CSS3** – Layout, animations, and responsiveness
-- **Vanilla JavaScript** – UI interactions & menu logic
-- **Font Awesome** – Icon system
-- **Google Fonts (EB Garamond)** – Typography
-- **MP4 Video** – Hero background media
+- **HTML5** – Semantic and accessible structure  
+- **CSS3** – Layouts, animations, and responsiveness  
+- **Vanilla JavaScript** – UI interactions & navigation logic  
+- **Font Awesome** – Icon system  
+- **Google Fonts (EB Garamond)** – Luxury typography  
+- **MP4 Video** – Hero background media  
 
+---
 
-## Page Sections
-- **Header**
-  - Brand logo
-  - Desktop navigation with mega menu
-  - Mobile navigation
-  - Theme toggle button
+## Page Structure & Sections
+### Header
+- Brand logo
+- Desktop navigation with mega menu
+- Mobile navigation menu
+- Theme toggle button (infrastructure ready)
 
-- **Hero Section**
-  - Autoplay background video
-  - Brand slogan and CTA
+### Hero Section
+- Autoplay background video
+- Brand slogan and primary call-to-action (CTA)
 
-- **About**
-  - Brand philosophy & vision
-  - Dual-direction infinite image sliders
+### About
+- Brand philosophy and vision
+- Dual-direction infinite image sliders
 
-- **Products**
-  - Category-based product cards
-  - Slider indicators
+### Products
+- Category-based product cards
+- Slider indicators for navigation
 
-- **Materials**
-  - Detailed explanation of used wood types
-  - Visual + textual storytelling layout
+### Materials
+- Detailed explanations of wood and material types
+- Visual and textual storytelling layout
 
-- **Featured Collections**
-  - Highlighted design-focused products
+### Featured Collections
+- Highlighted, design-focused furniture pieces
 
-- **Testimonials**
-  - Customer feedback section (placeholder-ready)
+### Testimonials
+- Customer feedback section (placeholder-ready)
 
-- **References**
-  - Scrolling partner / brand logos
+### References
+- Scrolling partner and brand logos
 
-- **Footer**
-  - Contact information
-  - Social media links
-  - Sitemap
-  - Copyright notice
+### Footer
+- Contact information
+- Social media links
+- Sitemap
+- Copyright notice
 
+---
 
-  **Contact**
-- For more information about LUXERIO or collaboration inquiries:
+## Contact
+For more information about LUXERIO or collaboration inquiries:
+- **Designer:** SariGrid  
+- **Email:** sarigridd@gmail.com  
+- **Email:** cihannsri@gmail.com  
 
-  - Designer: SariGrid
-  - Email: sarigridd@gmail.com 
-  - Email:  cihannsri@gmail.com
-
+### Installation
+This project is a fully static frontend website and does not require any backend setup.
+```bash
+git clone https://github.com/ChnSari/luxerio.git
+cd luxerio
