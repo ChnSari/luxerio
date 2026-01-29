@@ -2,14 +2,14 @@
         const icon = toggleBtn.querySelector("i");
         const html = document.documentElement;
 
-        /* Sayfa güncellendiğinde kayıtlı tema kontrolü */
+        /* Check saved theme when the page is updated */
         const savedTheme = localStorage.getItem("theme");
         if (savedTheme === "dark") {
             html.classList.add("dark");
             icon.classList.replace("fa-moon", "fa-sun");
         }
 
-        /* Tema Değiştirme */
+        /* Change Theme */
         toggleBtn.addEventListener("click", () => {
             html.classList.toggle("dark");
 
@@ -23,18 +23,18 @@
             }
         });
 
-        /* Mobil Menü */
+        /* Mobile Menu */
         const hamburger= document.getElementById("hamburger");
         const mobileMenu= document.getElementById("mobileMenu");
         const collections= document.getElementById("mobileCollections");
 
-        /* Hamburger aç / kapat */
+        /* Hamburger on / off */
         hamburger.addEventListener("click",() => {
             hamburger.classList.toggle("active");
             mobileMenu.classList.toggle("active");
         });
 
-        /* Mobil Collections aç / kapat */
+        /* Mobil Collections on / off */
         collections.addEventListener("click", () => {
             collections.classList.toggle("active");
         });
