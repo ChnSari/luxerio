@@ -7,12 +7,6 @@ smooth visual flow, and refined brand storytelling.
 
 ---
 
-## Preview
-> High-end furniture brand website featuring a video-based hero section,  
-> mega menu navigation, curated product showcases, and material storytelling.
-
----
-
 ## Key Features
 ### UI / UX
 - Luxury-oriented, minimal, and modern interface
