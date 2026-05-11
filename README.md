@@ -84,14 +84,16 @@ smooth visual flow, and refined brand storytelling.
 
 ---
 
-## Contact
-For more information about LUXERIO or collaboration inquiries:
-- **Designer:** SariGrid  
-- **Email:** sarigridd@gmail.com  
-- **Email:** cihannsri@gmail.com  
+##  Developer
 
-### Installation
-This project is a fully static frontend website and does not require any backend setup.
-```bash
-git clone https://github.com/ChnSari/luxerio.git
-cd luxerio
+**Cihan Sarı**
+
+* GitHub: https://github.com/ChnSari
+* LinkedIn: https://linkedin.com/in/cihansri
+* Email: [cihannsri@gmail.com](mailto:cihannsri@gmail.com)
+
+---
+
+##  License
+
+[MIT](https://choosealicense.com/licenses/mit/)
