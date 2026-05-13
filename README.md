@@ -42,9 +42,8 @@ smooth visual flow, and refined brand storytelling.
 - **Google Fonts (EB Garamond)** – Luxury typography  
 - **MP4 Video** – Hero background media  
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,react,npm,nodejs,mysql,figma,photoshop,wordpress" height="40" />
 
-
+---
 
 ## Page Structure & Sections
 ### Header
@@ -93,6 +92,8 @@ smooth visual flow, and refined brand storytelling.
 * GitHub: https://github.com/ChnSari
 * LinkedIn: https://linkedin.com/in/cihansri
 * Email: [cihannsri@gmail.com](mailto:cihannsri@gmail.com)
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,react,npm,nodejs,mysql,figma,photoshop,wordpress" height="40" />
 
 ---
 
