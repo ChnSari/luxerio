@@ -83,7 +83,8 @@ smooth visual flow, and refined brand storytelling.
 - Copyright notice
 
 ---
-
+<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,react,npm,nodejs,mysql,figma,photoshop,wordpress" height="40" />
+---
 ##  Developer
 
 **Cihan Sarı**
